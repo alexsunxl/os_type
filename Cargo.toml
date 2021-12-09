@@ -1,10 +1,10 @@
 [package]
-name = "os_type"
+name = "ffs_os_type"
 version = "2.3.0"
-authors = ["Jan Schulte <janschulte@fastmail.com>"]
+authors = ["Jan Schulte <janschulte@fastmail.com>", "alexsunxl@163.com"]
 license = "MIT"
 description = "Detect the operating system type"
-repository = "https://github.com/schultyy/os_type"
+repository = "https://github.com/alexsunxl/os_type"
 
 [dependencies]
 regex="1"
